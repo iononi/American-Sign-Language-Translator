@@ -47,7 +47,7 @@ Este caso aplica en caso de que usted tenga instalado en su equipo la herramient
 
 ¡Listo! Con estos sencillos pasos ha creado una copia del repositorio en su computadora. Ahora puede continuar a la sección _[Modo de uso](https://github.com/iononi/American-Sign-Language-Translator.git#modo-de-uso)_.
 
-### **Descargar archivo comprimido ZIP**
+### **2. Descargar archivo comprimido ZIP**
 Para ello simplemente debe hacer clic sobre el botón verde que dice `Code` y se desplegará un submenú donde aparecerá la opción _Download ZIP_. Debe hacer clic en esta opción y en breve debería observar que la descarga ha comenzado en la sección de descargas de su navegador.
 
 ![Descargar ZIP](assets/download_zip.gif)
